@@ -38,9 +38,9 @@ The objectives of this task are to:
 | Component | Configuration |
 |---|---|
 | Host device | Personal laptop |
-| Host operating system | Windows 11 (as shown in the screenshot) |
-| Processor | Intel Core i7 |
-| Physical RAM | 8 GB |
+| Host operating system | Mac OS (as shown in the screenshot) |
+| Processor | Intel Core i5 |
+| Physical RAM | 16 GB |
 | Virtualization software | Oracle VirtualBox |
 | Guest operating system | Kali Linux |
 | Virtual machine RAM | Verify in VirtualBox settings |
