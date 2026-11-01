@@ -4,7 +4,7 @@ This is my first project on cybersecurity
 
 **Project:** Virtualized Cybersecurity and Penetration Testing Lab  
 **Author:** Abdulgafar Imran  
-**Degree:** BS Cybersecurity  
+**Degree:** BS Computer Science  
 **University:** Ladoke Akintola University of technology  
 **Environment:** Kali Linux on Oracle VirtualBox  
 **Purpose:** Ethical hacking, networking, reconnaissance, and authorized security testing
@@ -105,7 +105,7 @@ Official resources:
 
 The Kali Linux virtual machine was imported into Oracle VirtualBox and started successfully.
 
-The VM's CPU allocation, RAM allocation, and other hardware settings should be checked in VirtualBox before running resource-intensive tools, especially because the host laptop has 8 GB of RAM.
+The VM's CPU allocation, RAM allocation, and other hardware settings should be checked in VirtualBox before running resource-intensive tools, especially because the host laptop has 16 GB of RAM.
 
 ### Step 3: Create the NAT Network
 
